@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first git repository
-Author - Shivansh Mehta
+Author - Shivansh (Nsut)
+
